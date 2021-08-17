@@ -1,0 +1,131 @@
+body {
+    margin: 0%;
+    padding: 0%;
+
+ }
+.i{
+    text-align:center;
+    margin-top:50px ;
+}
+
+.o{
+    border: 2px solid #f50f0f;
+    background: aquamarine;
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+  
+    color: #f50f0f;
+    transition: 1s;
+    position: relative;
+    overflow : hidden
+
+
+}
+.o:hover{
+    color:#00040a;
+
+}
+
+
+.p{
+    border: 2px solid #f50f0f;
+    background: aquamarine;
+  
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+   
+    color: #f50f0f;
+    transition: 0.5s;
+    position: relative;
+    overflow : hidden
+
+
+}
+.p:hover{
+    color:#00040a;
+
+}
+
+
+.a{
+    border: 2px solid #f50f0f;
+    background: aquamarine;
+ 
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+
+    color: #f50f0f;
+    transition: 0.5s;
+    position: relative;
+    overflow : hidden
+
+
+}
+.a:hover{
+    color:#00040a;
+
+}
+
+.s{
+    border: 2px solid #f50f0f;
+    background: aquamarine;
+ 
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+
+    color: #f50f0f;
+    transition: 0.5s;
+    position: relative;
+    overflow : hidden
+
+
+}
+.s:hover{
+    color:#00040a;
+
+}
+
+.d{
+    border: 2px solid #f50f0f;
+    background: aquamarine;
+ 
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+  
+    color: #f50f0f;
+    transition: 0.5s;
+    position: relative;
+    overflow : hidden
+
+
+}
+.d:hover{
+    color:#00040a;
+
+}
+
+
+.f{
+    border: 2px solid #f50f0f;
+    background: aquamarine;
+ 
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+   
+    color: #f50f0f;
+    transition: 0.5s;
+    position: relative;
+    overflow : hidden
+
+
+}
+.f:hover{
+    color:#00040a;
+
+}
